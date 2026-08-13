@@ -1,0 +1,3 @@
+Foi criado um banco de dados que tem como único usuário leandro e senha "123456".
+para rodar corretamanete o projedo é necessário rodas os seguintes comandos no python do vc code: cd Agenda_medica, python models.py,
+python main.py . Após isso vai aparecer o para entra no site.
